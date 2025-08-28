@@ -1,8 +1,8 @@
 {
 	"manifest_version": 3,
-	"name": "Put my mini-player button back [Youtube]",
+	"name": "Bring my mini-player button back [Youtube]",
 	"version": "1.0",
-	"description": "Puts back the mini-player button to its original position, bottom right corner of the video player.",
+	"description": "Brings back the mini-player button to its original position, bottom right corner of the video player.",
 	"permissions": ["scripting", "storage", "activeTab"],
 	"content_scripts": [
 		{
