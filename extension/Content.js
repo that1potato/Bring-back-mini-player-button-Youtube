@@ -14,7 +14,7 @@
 			display: "inline-flex",
 			alignItems: "center",
 			justifyContent: "center",
-			color: "#fff", // drives currentColor
+			color: "#fff",
 		});
 
 		btn.innerHTML = `
