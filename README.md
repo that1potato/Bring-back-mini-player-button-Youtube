@@ -1,4 +1,4 @@
-# Bring back my miniplayer button
+# Bring back my miniplayer button 😡
 
 Brings back Youtube's miniplayer button to the bottom right corner of the video player.
 
